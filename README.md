@@ -8,8 +8,15 @@ I'm an aspiring full stack web developer that builds websites using HTML, CSS, a
 DOM manipulation in the Foundations course of The Odin Project.
 I am also taking computer science courses at a community college, one such class being C++ fundamentals.
 
+## 🏗️  Current Projects
+### project-rps-advanced
+A Rock, Paper, Scissors game the user plays with buttons on a webpage.
+
+### google-homepage-ver2
+A google homepage clone
+
 ## 🌱 Currently Learning
-Incorporating information to my Javascript Knowledge and event listeners
+Incorporating information to my Javascript Knowledge and event listeners.
 
 ## 💬 Ask me about
 HTML, CSS, JS, C++
