@@ -1,3 +1,4 @@
+<img src="images/Background.jpg" alt="Edgar sitting outside during golden hour" align="center">
 <h1 align="center">Hi 👋 I'm Edgar</h1>
 
 ## About Me
