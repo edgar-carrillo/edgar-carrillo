@@ -7,7 +7,7 @@ I'm an aspiring full stack web developer that builds websites using HTML, CSS, a
 
 
 ## 🕵️ I'm Currently working on
-DOM manipulation in JS. I am also taking a course on C++ Fundamentals.
+DOM manipulation in JS & C++ Fundamentals.
 
 ## 🏗️  Current Projects
 
