@@ -10,14 +10,18 @@ DOM manipulation in the Foundations course of The Odin Project.
 I am also taking computer science courses at a community college, one such class being C++ fundamentals.
 
 ## 🏗️  Current Projects
-### project-rps-advanced
+### project-rps-advanced - COMPLETED
+
 A Rock, Paper, Scissors game the user plays with buttons on a webpage.
 
-### google-homepage-ver2
+### google-homepage-ver2 - COMPLETED
 A google homepage clone
 
+### Etch-A-Sketch - COMPLETED
+A Etch-a-sketch online program that was made prodominatly using JS with heavy use of the DOM.
+
 ## 🌱 Currently Learning
-Incorporating information to my Javascript Knowledge and event listeners.
+Dom Manipulation in Javascript & C++ fundamentals
 
 ## 💬 Ask me about
 HTML, CSS, JS, C++
