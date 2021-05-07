@@ -7,10 +7,13 @@ I'm an aspiring full stack web developer that builds websites using HTML, CSS, a
 
 
 ## 🕵️ I'm Currently working on
-DOM manipulation in the Foundations course of The Odin Project.
-I am also taking computer science courses at a community college, one such class being C++ fundamentals.
+DOM manipulation in JS. I am also taking a course on C++ Fundamentals.
 
 ## 🏗️  Current Projects
+
+### Budgeting Program - in C++
+A program that lets you have more control of your spending habits through exposure to them.
+
 ### project-rps-advanced - COMPLETED
 
 A Rock, Paper, Scissors game the user plays with buttons on a webpage.
