@@ -1,5 +1,6 @@
 <img src="images/Background.jpg" alt="Edgar sitting outside during golden hour" align="center">
 <h1 align="center">Hi 👋 I'm Edgar</h1>
+<h2 align="center">Picture of me taken by me</h2>
 
 ## About Me
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, and Javascript.
