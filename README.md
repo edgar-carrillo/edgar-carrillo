@@ -10,14 +10,11 @@ A calculator using JS, HTML, & CSS and final additions to a budgeting program in
 Budgeting Program Repl: https://replit.com/@ecarrillo046/Budgeting-Project-1?v=1
 
 ## 🏗️  Current Projects
-1. Calculator
-2. Web Portfolio
-3. Photography Portfolio
 
 ### Calculator
 JS/HTML/CSS - A basic calculator that allows the user to multiply, divide, add, and subtract numbers.
 <br>
-Live progress: https://ec-rilo.github.io/calculator/
+Live : https://ec-rilo.github.io/calculator/
 <br>
 Repo: https://github.com/ec-rilo/calculator
 
