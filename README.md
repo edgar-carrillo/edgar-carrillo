@@ -5,7 +5,7 @@
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, and Javascript.
 
 ## 🕵️ I'm Currently working on
-A calculator using JS, HTML, & CSS. Final additions to a budgeting program in C++
+A calculator using JS, HTML, & CSS and final additions to a budgeting program in C++
 <br>
 Live: https://replit.com/@ecarrillo046/Budgeting-Project-1?v=1
 
