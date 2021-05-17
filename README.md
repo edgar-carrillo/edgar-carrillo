@@ -16,7 +16,9 @@ Budgeting Program Repl: https://replit.com/@ecarrillo046/Budgeting-Project-1?v=1
 
 ### Calculator
 JS/HTML/CSS - A basic calculator that allows the user to multiply, divide, add, and subtract numbers.
+<br>
 Live progress: https://ec-rilo.github.io/calculator/
+<br>
 Repo: https://github.com/ec-rilo/calculator
 
 ## 🌱 Currently Learning
