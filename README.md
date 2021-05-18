@@ -3,6 +3,8 @@
 
 ## About Me
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, and Javascript.
+<br>
+Fitness, Aquariums, hiking and dog training are my hobbies.
 
 ## 🕵️ I'm Currently working on
 A calculator using JS, HTML, & CSS and final additions to a budgeting program in C++
