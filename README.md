@@ -4,24 +4,23 @@
 ## About Me
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, and Javascript.
 <br>
-Fitness, Aquariums, hiking and dog training are my hobbies.
+Fitness, Aquariums, hiking and dog training are my hobbies. (I'm also really into coffee ☕)
 
 ## 🕵️ I'm Currently working on
-A calculator using JS, HTML, & CSS and final additions to a budgeting program in C++
-<br>
-Budgeting Program Repl: https://replit.com/@ecarrillo046/Budgeting-Project-1?v=1
+The application of objects in a webpage and Node.JS
 
 ## 🏗️  Current Projects
 
-### Calculator
+### Calculator - completed
 JS/HTML/CSS - A basic calculator that allows the user to multiply, divide, add, and subtract numbers.
+The calculator was made with an emphasis on DOM manipulation.
 <br>
 Live : https://ec-rilo.github.io/calculator/
 <br>
 Repo: https://github.com/ec-rilo/calculator
 
 ## 🌱 Currently Learning
-Further development in Javascript.
+Node.js
 
 ## 💬 Ask me about
 HTML, CSS, JS, C++
