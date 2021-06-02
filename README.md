@@ -11,16 +11,19 @@ The application of objects in a webpage and Node.JS
 
 ## 🏗️  Current Projects
 
-### Calculator - completed
-JS/HTML/CSS - A basic calculator that allows the user to multiply, divide, add, and subtract numbers.
-The calculator was made with an emphasis on DOM manipulation.
+### project-library
+JS/HTML/CSS - A library application that catalogs information of books you have read or plan on reading. 
 <br>
-Live : https://ec-rilo.github.io/calculator/
+You can catelog the title, author, number of pages, language, publish date, and whether you have read the book.
 <br>
-Repo: https://github.com/ec-rilo/calculator
+More functionality to come.
+<br>
+Live : https://ec-rilo.github.io/Project-Library/
+<br>
+Repo: https://github.com/ec-rilo/Project-Library
 
 ## 🌱 Currently Learning
-Node.js
+OOP
 
 ## 💬 Ask me about
 HTML, CSS, JS, C++
