@@ -14,7 +14,7 @@ The application of objects in a webpage and Node.JS
 ### project-library
 JS/HTML/CSS - A library application that catalogs information of books you have read or plan on reading. 
 <br>
-You can catelog the title, author, number of pages, language, publish date, and whether you have read the book.
+You can catalog the title, author, number of pages, language, publish date, and whether you have read the book.
 <br>
 More functionality to come.
 <br>
