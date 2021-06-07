@@ -16,7 +16,7 @@ JS/HTML/CSS - A library application that catalogs information of books you have 
 <br>
 You can catalog the title, author, number of pages, language, publish date, and whether you have read the book.
 <br>
-More functionality to come.
+Mobile version under construction 🚧
 <br><br>
 Live : https://ec-rilo.github.io/Project-Library/
 <br>
