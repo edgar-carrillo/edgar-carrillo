@@ -7,7 +7,7 @@ I'm an aspiring full stack web developer that builds websites using HTML, CSS, a
 Fitness, Aquariums, hiking and dog training are my hobbies.
 
 ## 🕵️ I'm Currently working on
-The application of objects in a webpage and Node.JS
+Factory Functions and module patterns
 
 ## 🏗️  Current Projects
 
