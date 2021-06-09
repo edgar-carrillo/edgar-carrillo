@@ -15,7 +15,7 @@ JS/HTML/CSS - A game of tic-tac-toe, made with the module pattern and factory fu
 <p>
   The completed project will have a welcome screen allowing the user to start the game and input there information.
   Buttons to restart the game and start the game will be present at the time of play. Being able to play against a computer
-  will also implemented. A winner display with a ability to choose to rematch will be present at games end.
+  will also be implemented. A winner display with a ability to choose to rematch will be present at games end.
 </p>
 
 <br>
