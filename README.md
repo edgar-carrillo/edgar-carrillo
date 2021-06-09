@@ -4,10 +4,6 @@
 ## About Me
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, and Javascript.
 <br>
-Fitness, Aquariums, hiking and dog training are my hobbies.
-<br>
-Learning is my passion.
-
 ## 🕵️ I'm Currently working on
 Factory Functions, module patterns and making past projects mobile friendly.
 
