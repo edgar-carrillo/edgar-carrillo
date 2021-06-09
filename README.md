@@ -5,22 +5,29 @@
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, and Javascript.
 <br>
 Fitness, Aquariums, hiking and dog training are my hobbies.
+<br>
+Learning is my passion.
 
 ## 🕵️ I'm Currently working on
 Factory Functions and module patterns
 
-## 🏗️  Current Projects
+## 🏗️  Current Project
 
-### project-library
-JS/HTML/CSS - A library application that catalogs information of books you have read or plan on reading. 
-<br>
-You can catalog the title, author, number of pages, language, publish date, and whether you have read the book.
-<br>
-Mobile version under construction 🚧
+### project-tic-tac-toe
+JS/HTML/CSS - A game of tic-tac-toe, made with the module pattern and factory functions.
 <br><br>
-Live : https://ec-rilo.github.io/Project-Library/
+<p>
+  The completed project will have a welcome screen allowing the user to start the game and input there information.
+  Buttons to restart the game and start the game will be present at the time of play. Being able to play against a computer
+  will also implemented. A winner display with a ability to choose to rematch will be present at games end.
+</p>
+
 <br>
-Repo: https://github.com/ec-rilo/Project-Library
+Under construction 🚧
+<br><br>
+Live : https://ec-rilo.github.io/project-tic-tac-toe/
+<br>
+Repo: https://github.com/ec-rilo/project-tic-tac-toe
 
 ## 🌱 Currently Learning
 OOP
