@@ -9,7 +9,7 @@ Fitness, Aquariums, hiking and dog training are my hobbies.
 Learning is my passion.
 
 ## 🕵️ I'm Currently working on
-Factory Functions and module patterns
+Factory Functions, module patterns and making past projects mobile friendly.
 
 ## 🏗️  Current Project
 
