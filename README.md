@@ -9,7 +9,7 @@ Factory Functions, module patterns and making past projects mobile friendly.
 
 ## 🏗️  Current Project
 
-### project-tic-tac-toe
+### • project-tic-tac-toe
 JS/HTML/CSS - A game of tic-tac-toe, made with the module pattern and factory functions.
 <br><br>
 <p>
