@@ -5,8 +5,7 @@
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, and Javascript.
 <br>
 ## 🕵️ I'm Currently working on
-Factory Functions, module patterns and making past projects mobile friendly.
-
+npm, webpack
 ## 🏗️  Current Project
 
 ### • project-tic-tac-toe
