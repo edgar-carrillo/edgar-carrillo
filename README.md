@@ -8,24 +8,23 @@ I'm an aspiring full stack web developer that builds websites using HTML, CSS, a
 npm, webpack
 ## 🏗️  Current Project
 
-### • project-tic-tac-toe
-JS/HTML/CSS - A game of tic-tac-toe, made with the module pattern and factory functions.
+### • project-restaurant
+JS/HTML/CSS/Webpack/NPM - A mexican restaurant page where one can place orders, view what the company is about and more.
 <br><br>
 <p>
-  The completed project will have a welcome screen allowing the user to start the game and input there information.
-  Buttons to restart the game and start the game will be present at the time of play. Being able to play against a computer
-  will also be implemented. A winner display with a ability to choose to rematch will be present at games end.
+  The completed project will display a homepage describibng the company with multiple pages that the user can tab through.
+  As buttons will have funcionality, causing a form where the user can submit orders. More to be added.
 </p>
 
 <br>
-Under construction 🚧
+In progress 🚧
 <br><br>
-Live : https://ec-rilo.github.io/project-tic-tac-toe/
+Live : https://ec-rilo.github.io/project-restaurant/
 <br>
-Repo: https://github.com/ec-rilo/project-tic-tac-toe
+Repo: https://github.com/ec-rilo/project-restaurant
 
 ## 🌱 Currently Learning
 OOP
 
 ## 💬 Ask me about
-HTML, CSS, JS, C++
+HTML, CSS, JS
