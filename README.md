@@ -13,7 +13,7 @@ JS/HTML/CSS/Webpack/NPM - A mexican restaurant page where one can place orders, 
 <br><br>
 <p>
   The completed project will display a homepage describing the company with multiple pages that the user can tab through.
-  As buttons will have funcionality, causing a form where the user can submit orders. More to be added.
+  As buttons will have functionality, causing a form where the user can submit orders. More to be added.
 </p>
 
 <br>
