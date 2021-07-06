@@ -16,12 +16,23 @@ JS/HTML/CSS/Webpack/NPM - A mexican restaurant page where one can place orders, 
   As buttons will have functionality, causing a form where the user can submit orders. More to be added.
 </p>
 
-<br>
-In progress 🚧
 <br><br>
 Live : https://ec-rilo.github.io/project-restaurant/
 <br>
 Repo: https://github.com/ec-rilo/project-restaurant
+
+<br>
+### • photography-portfolio
+<p>
+JS/HTML/CSS/Webpack/NPM - A photography portfolio showcasing the clients portfolio of photographs,an about page describing the photographer, a contact page     where a user can contact the photographer, and a page where the user can access the clients 3d art.
+</p>
+
+<br><br>
+Live : https://ec-rilo.github.io/josepholiver/#
+<br>
+Repo: https://github.com/ec-rilo/josepholiver
+
+
 
 ## 🌱 Currently Learning
 OOP
