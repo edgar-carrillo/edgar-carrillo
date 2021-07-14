@@ -6,7 +6,7 @@ I'm an aspiring full stack web developer that builds websites using HTML, CSS, a
 <br>
 ## 🕵️ I'm Currently working on
 OOP, webpack, SOLID
-## 🏗️  Current Project
+## 🏗️  Current Project(s)
 
 ### • project-restaurant
 JS/HTML/CSS/Webpack/NPM - A mexican restaurant page where one can place orders, view what the company is about and more.
