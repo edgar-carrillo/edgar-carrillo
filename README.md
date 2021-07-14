@@ -5,7 +5,7 @@
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, and Javascript.
 <br>
 ## 🕵️ I'm Currently working on
-npm, webpack
+OOP, webpack, SOLID
 ## 🏗️  Current Project
 
 ### • project-restaurant
