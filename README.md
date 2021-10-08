@@ -21,6 +21,19 @@ Live : https://ec-rilo-image-carousel.netlify.app/
 Repo : https://github.com/ec-rilo/image-carousel
 <br><br>
 
+### • drop-down-menu
+JS/HTML/CSS/Webpack - Create multiple dropdown menu's without having to touch javascript.
+<br>
+<p>
+Easily create multiple drop down menu's for your website without having to touch javascript. All you have to do is edit the HTML to follow the format
+in the README as well as adding the css classes as mentioned, then download the javascript module from NPM and have dropdowns on your website!
+</p>
+
+Live : Example viewable on my website.
+<br>
+Repo : https://github.com/ec-rilo/drop-down-menu
+<br><br>
+
 ### • project-to-do-list
 JS/HTML/CSS/Webpack - A to-do-list application that allows the user to set tasks that they have to complete.
 <br>
