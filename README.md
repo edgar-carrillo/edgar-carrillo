@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 <a href="https://edgar-carrillo.com/">I'm Edgar</a></h1>
 
 ## About Me
-I'm an aspiring full stack web developer that builds websites using HTML, CSS, Webpack, and Javascript.
+I'm an aspiring full stack web developer that builds websites using HTML, CSS, Webpack, and Javascript. When I'm not behind a computer I love going out on hikes or doing other activities like my many hobbies that range from aquarium keeping to weight lifting. 
 <br>
 ## 🕵️ I'm Currently working on
 Dynamic User Interfaces
