@@ -1,12 +1,25 @@
 <img src="images/Background.jpg" alt="Edgar sitting outside during golden hour" align="center">
-<h1 align="center">Hi 👋 I'm Edgar</h1>
+<h1 align="center">Hi 👋 <a href="https://edgar-carrillo.com/">I'm Edgar</a></h1>
 
 ## About Me
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, Webpack, and Javascript.
 <br>
 ## 🕵️ I'm Currently working on
-ES6 Modules, webpack, SOLID principles
+Dynamic User Interfaces
 ## 🏗️  Current Project(s)
+
+### • image-carousel
+JS/HTML/CSS/Webpack - A dynamic image carousel with multiple functions
+<br>
+<p>
+A dynamic image carousel that allows the user to click on navigation rectangles to go to an image, next or previous buttons to go the next 
+or previous image, and a passive timeout that advances to the next image when user is not actively clicking on an image.
+</p>
+
+Live : https://ec-rilo-image-carousel.netlify.app/
+<br>
+Repo : https://github.com/ec-rilo/image-carousel
+<br><br>
 
 ### • project-to-do-list
 JS/HTML/CSS/Webpack - A to-do-list application that allows the user to set tasks that they have to complete.
@@ -35,9 +48,3 @@ Repo: https://github.com/ec-rilo/josepholiver
 <br>
 Figma Concept: https://www.figma.com/file/AlqnjF0mlDEueobhUsYoJ4/Josephs-Portfolio?node-id=0%3A1
 <br><br>
-
-## 🌱 Currently Learning
-OOP
-
-## 💬 Ask me about
-HTML, CSS, JS
