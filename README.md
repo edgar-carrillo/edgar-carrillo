@@ -1,12 +1,25 @@
 <img src="images/Background.jpg" alt="Edgar sitting outside during golden hour" align="center">
-<h1 align="center">Hi 👋 <a href="https://edgar-carrillo.com/">I'm Edgar</a></h1>
+<h1 align="center">Hi, <a href="https://edgar-carrillo.com/">I'm Edgar</a></h1>
 
 ## About Me
 I'm an aspiring full stack web developer that builds websites using HTML, CSS, Webpack, and Javascript. When I'm not behind a computer I love going out on hikes or doing other activities like my many hobbies that range from aquarium keeping to weight lifting. 
 <br>
-## 🕵️ I'm Currently working on
-Dynamic User Interfaces
+
 ## 🏗️  Current Project(s)
+
+### • photography-portfolio
+JS/HTML/CSS/Webpack - A photography portfolio showcasing the clients portfolio of photography and more.
+<br>
+<p>
+  The portfolio will feature a string of images that involve photography, artstation creations, and other images the client would like incorporated into there website. Currently only mobile responsive.
+</p>
+
+Live : https://joseph-oliver-dev.netlify.app/
+<br>
+Repo: https://github.com/ec-rilo/joseph-oliver-portfolio
+<br>
+Figma Concept: https://www.figma.com/file/AlqnjF0mlDEueobhUsYoJ4/Josephs-Portfolio?node-id=0%3A1
+<br><br>
 
 ### • image-carousel
 JS/HTML/CSS/Webpack - A dynamic image carousel with multiple functions
@@ -21,17 +34,16 @@ Live : https://ec-rilo-image-carousel.netlify.app/
 Repo : https://github.com/ec-rilo/image-carousel
 <br><br>
 
-### • drop-down-menu
-JS/HTML/CSS/Webpack - Create multiple dropdown menu's without having to touch javascript.
+### • form-collection
+JS/HTML/CSS/Webpack - Create a form that does not collect data. But uses the javascript validation api.
 <br>
 <p>
-Easily create multiple drop down menu's for your website without having to touch javascript. All you have to do is edit the HTML to follow the format
-in the README as well as adding the css classes as mentioned, then download the javascript module from NPM and have dropdowns on your website!
+Submit your information in this custom form that uses the javascript validation api to create custom error messages when a user inputs incorrect data. Custom drop down menu created for mobile.
 </p>
 
-Live : Example viewable on my website.
+Live : https://form-collection.netlify.app/
 <br>
-Repo : https://github.com/ec-rilo/drop-down-menu
+Repo : https://github.com/ec-rilo/form-collection
 <br><br>
 
 ### • project-to-do-list
@@ -46,18 +58,4 @@ Live : https://ec-rilo.github.io/project-todo-list/
 Repo: https://github.com/ec-rilo/project-todo-list
 <br>
 Figma Concept: https://www.figma.com/file/VlDPT5LYiw2XhQcG6CdeSF/project-todo-list?node-id=0%3A1
-<br><br>
-
-### • photography-portfolio
-JS/HTML/CSS/Webpack - A photography portfolio showcasing the clients portfolio of photography and more.
-<br>
-<p>
-  The portfolio will feature a string of images that involve photography, artstation creations, and other images the client would like incorporated into there website.
-</p>
-
-Live : https://ec-rilo.github.io/josepholiver/#
-<br>
-Repo: https://github.com/ec-rilo/josepholiver
-<br>
-Figma Concept: https://www.figma.com/file/AlqnjF0mlDEueobhUsYoJ4/Josephs-Portfolio?node-id=0%3A1
 <br><br>
