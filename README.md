@@ -21,17 +21,24 @@ Repo: https://github.com/ec-rilo/joseph-oliver-portfolio
 Figma Concept: https://www.figma.com/file/AlqnjF0mlDEueobhUsYoJ4/Josephs-Portfolio?node-id=0%3A1
 <br><br>
 
-### • image-carousel
-JS/HTML/CSS/Webpack - A dynamic image carousel with multiple functions
+### • Weather App
+JS/HTML/CSS/Webpack/ - A weather application that will provide weather and current day information
+<br>
+API's: Google Geolocation API, Open Weather API
 <br>
 <p>
-A dynamic image carousel that allows the user to click on navigation rectangles to go to an image, next or previous buttons to go the next 
-or previous image, and a passive timeout that advances to the next image when user is not actively clicking on an image.
+This weather application will provide different experiences depending on the device. On mobile, you will get the current weather, current day, current time, location of the weather, and the option to change between unit types (imperial - metric). On desktop you will get all the amenities of mobile while also getting a one week forecast of the weather.
 </p>
 
-Live : https://ec-rilo-image-carousel.netlify.app/
 <br>
-Repo : https://github.com/ec-rilo/image-carousel
+<p><strong>Currently only mobile responsive</strong></p>
+<br>
+
+Live : https://ec-weather-app.netlify.app/
+<br>
+Repo: https://github.com/ec-rilo/weather-app
+<br>
+Figma Concept: https://www.figma.com/file/CMgt0JxwcA5CJZy0JQb1lO/Weather-App?node-id=0%3A1
 <br><br>
 
 ### • form-collection
