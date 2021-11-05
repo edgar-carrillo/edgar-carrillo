@@ -2,7 +2,10 @@
 <h1 align="center">Hi, <a href="https://edgar-carrillo.com/">I'm Edgar</a></h1>
 
 ## About Me
-I'm an aspiring full stack web developer that builds websites using HTML, CSS, Webpack, and Javascript. When I'm not behind a computer I love going out on hikes or doing other activities like my many hobbies that range from aquarium keeping to weight lifting. 
+I'm a Computer Science student working on front-end web development and JavaScript programming for the past year. I've been on this journey alongside a team of passionate developers where we push each other to make progress.
+
+Seeking internships / jobs to apply my experience and expand my knowledge by assisting the companies needs through Web Development.
+
 <br>
 
 ## 🏗️  Current Project(s)
