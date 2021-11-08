@@ -30,12 +30,8 @@ JS/HTML/CSS/Webpack/ - A weather application that will provide weather and curre
 API's: Google Geolocation API, Open Weather API
 <br>
 <p>
-This weather application will provide different experiences depending on the device. On mobile, you will get the current weather, current day, current time, location of the weather, and the option to change between unit types (imperial - metric). On desktop you will get all the amenities of mobile while also getting a one week forecast of the weather.
+Cross-platform Weather App. On mobile, you get the current weather, current day, current time, location of the weather, and the option to toggle unit types (imperial - metric). On desktop you will get all the amenities of mobile while also getting a one week forecast of the weather.
 </p>
-
-<br>
-<p><strong>Currently only mobile responsive</strong></p>
-<br>
 
 Live : https://ec-weather-app.netlify.app/
 <br>
