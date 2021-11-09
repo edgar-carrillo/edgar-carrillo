@@ -14,7 +14,7 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 JS/HTML/CSS/Webpack - A photography portfolio showcasing the clients portfolio of photography and more.
 <br>
 <p>
-  The portfolio will feature a string of images that involve photography, artstation creations, and other images the client would like incorporated into there website. Currently only mobile responsive.
+  The portfolio features a string of images that involve photography, artstation creations, and other images the client would like incorporated into there website.
 </p>
 
 Live : https://joseph-oliver-dev.netlify.app/
