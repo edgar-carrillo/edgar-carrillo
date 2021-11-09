@@ -45,7 +45,7 @@ Figma Concept: https://www.figma.com/file/CMgt0JxwcA5CJZy0JQb1lO/Weather-App?nod
 JS/HTML/CSS/Webpack - Create a form that does not collect data. But uses the javascript validation api.
 <br>
 <p>
-Submit your information in this custom form that uses the javascript validation api to create custom error messages when a user inputs incorrect data. Custom drop down menu created for mobile.
+Submit your information in this custom form that uses the javascript constraint validation api to create custom error messages when a user inputs incorrect data. Custom drop down menu created for mobile.
 </p>
 
 Live : https://form-collection.netlify.app/
