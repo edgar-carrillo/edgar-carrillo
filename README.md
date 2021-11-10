@@ -1,6 +1,6 @@
 <img src="images/Background.jpg" alt="Edgar sitting outside during golden hour" align="center">
 <h1 align="center">Hi, <a href="https://edgar-carrillo.com/">I'm Edgar</a></h1>
-<h6 align="center">House (personal website) under construction (being mocked up in figma).</h6>
+<h6 align="center">My House (personal website) under construction (being mocked up in figma).</h6>
 
 ## About Me
 I'm a Computer Science student working on front-end web development and JavaScript programming. I've been on this journey alongside a team of passionate developers where we push each other to make progress.
