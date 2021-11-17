@@ -11,6 +11,18 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 
 ## 🏗️  Current Project(s)
 
+### • Battleship
+JS/HTML/CSS/Webpack/Jest - The class game of Battleship with a modern twist.
+<br>
+<p>
+  IN PROGRESS. This game follows the classic Battleship game rules. More about the game rules can be found on the Battleship wiki. This game will be multi-platform abd is currently created using a variety of test cases for functions making up the game. 
+</p>
+
+Live : [Redacted]
+<br>
+Repo: https://github.com/ec-rilo/battleship-game
+<br><br>
+
 ### • photography-portfolio
 JS/HTML/CSS/Webpack - A photography portfolio showcasing the clients portfolio of photography and more.
 <br>
