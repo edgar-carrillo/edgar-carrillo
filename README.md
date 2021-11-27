@@ -20,7 +20,7 @@ with ships at random locations. While allowing the user to place there ships whe
 clicking on the locations.
 </p>
 
-Live : [Redacted]
+Live : https://ec-battleship.netlify.app/
 <br>
 Repo: https://github.com/ec-rilo/battleship-game
 <br><br>
