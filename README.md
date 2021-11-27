@@ -12,10 +12,12 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 ## 🏗️  Current Project(s)
 
 ### • Battleship
-JS/HTML/CSS/Webpack/Jest - The class game of Battleship with a modern twist.
+JS/HTML/CSS/Webpack/Jest - The class game of Battleship with a modern flare.
 <br>
 <p>
-  IN PROGRESS. This game follows the classic Battleship game rules. More about the game rules can be found on the Battleship wiki. This game will be multi-platform abd is currently created using a variety of test cases for functions making up the game. 
+  This game follows the classic Battleship game rules. More about the game rules can be found on the <a href="https://en.wikipedia.org/wiki/Battleship_(game)">Battleship wiki</a>. The game populates the enemy board
+with ships at random locations. While allowing the user to place there ships where they want through hovering and
+clicking on the locations.
 </p>
 
 Live : [Redacted]
