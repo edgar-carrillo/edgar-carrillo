@@ -11,6 +11,22 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 
 ## 🏗️  Current Project(s)
 
+### • CV-Creator
+React/JS/HTML/CSS/Webpack/Jest - A nicely designed cv-creator with easy cv-creation.
+<br>
+<p>
+  This project will test my ability with React. It will have an emphasis on using state and props extensively. I'll be
+  allowing the user to append and remove items from the DOM dynamically. I'll also be creating extensive tests 
+  using the react-testing-library. These tests will be covering components and javascript logic.  
+</p>
+
+Live : [Redacted]
+<br>
+Repo: https://github.com/ec-rilo/cv-application
+<br>
+Figma: https://www.figma.com/file/e0MO1TrOH0CzobYbORxFOj/cv-application?node-id=0%3A1
+<br><br>
+
 ### • Battleship
 JS/HTML/CSS/Webpack/Jest - The class game of Battleship with a modern flare.
 <br>
