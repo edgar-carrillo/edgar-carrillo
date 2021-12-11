@@ -13,15 +13,17 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 ### • CV-Creator
 <b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
 
-A nicely designed cv-creator with easy cv-creation.
+An easy to use CV-Application Creator.
 <br>
 <p>
-  This project will test my ability with React. It will have an emphasis on using state and props extensively. I'll be
-  allowing the user to append and remove items from the DOM dynamically. I'll also be creating extensive tests 
-  using the react-testing-library. These tests will be covering components and javascript logic.  
+  With this project I dove deep into the concepts of props and state with react. Finding creative ways to use them
+  with as minimal use of the JavaScript equivalent as possible. Having used concepts like raising state and passing props
+  to other components in order to update data while also dynamically creating and removing components throughout the project
+  I now have a solid concept of how to use them! I also wanted to challenge myself in using react-testing-library which
+  can be found sprinkled into the project.  
 </p>
 
-Live : [Redacted]
+Live : https://ec-cv-creator.netlify.app/
 <br>
 Repo: https://github.com/ec-rilo/cv-application
 <br>
