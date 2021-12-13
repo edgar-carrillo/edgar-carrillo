@@ -25,7 +25,7 @@ An easy to use CV-Application Creator.
 
 Live : https://ec-cv-creator.netlify.app/
 <br>
-Repo: https://github.com/ec-rilo/cv-application
+Repo: https://github.com/ec-rilo/cv-creator-2
 <br>
 Figma: https://www.figma.com/file/e0MO1TrOH0CzobYbORxFOj/cv-application?node-id=0%3A1
 <br><br>
