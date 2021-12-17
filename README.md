@@ -10,6 +10,24 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 
 ## 🏗️  Current Project(s)
 
+### • Movie-Memory
+<b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
+
+A Game that challenges your memory retention.
+<br>
+<p>
+  With this project I wanted to refresh my knowledge with API's and broaden my scope of using React with hooks and functional 
+  components. As well as organizational skills needed prior to even touching code. Throughout the project there are tests created 
+  using jest as well as dynamic item creation with React. Being able to do a nice mix of JavaScript code and React was a focal point 
+  of this project.  
+</p>
+
+Live : https://ec-movie-memory.netlify.app/
+<br>
+Repo: https://github.com/ec-rilo/Memory-Card
+<br>
+<br><br>
+
 ### • CV-Creator
 <b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
 
