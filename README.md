@@ -10,6 +10,25 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 
 ## 🏗️  Current Project(s)
 
+### • Iron-Motorcycle
+<b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
+
+A Motorcycle company website where users can shop for many different types of motorcycles.
+<br>
+<p>
+  As I started this project I wanted to emphasize working with react-router but that slowly evolved into designing and finding out how 
+  to work with making projects look nice across a broad range of devices. This is a fully responsive website. This project does also heavily
+  emphasize learning react router as well to be able to handle creating pages dynamically and switching between them.
+
+  Most if not all of the code will be housed in the development branch until it is ready for production.
+</p>
+
+Live : [redacted]
+<br>
+Repo: https://github.com/ec-rilo/iron-motorcycles
+<br>
+<br><br>
+
 ### • Movie-Memory
 <b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
 
