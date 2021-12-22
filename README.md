@@ -30,7 +30,7 @@ Repo: https://github.com/ec-rilo/iron-motorcycles
 <br><br>
 
 ### • Movie-Memory
-<b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
+<b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest | TMDb API
 
 A Game that challenges your memory retention.
 <br>
