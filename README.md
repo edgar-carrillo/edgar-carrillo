@@ -18,7 +18,7 @@ A Motorcycle company website where users can shop for many different types of mo
 <p>
   As I started this project I wanted to emphasize working with react-router but that slowly evolved into designing and finding out how 
   to work with making projects look nice across a broad range of devices. This is a fully responsive website. This project does also heavily
-  emphasize learning react router as well to be able to handle creating pages dynamically and switching between them.
+  emphasize learning react router as well to be able to handle creating pages dynamically for each item and switching between them.
 
   Most if not all of the code will be housed in the development branch until it is ready for production.
 </p>
