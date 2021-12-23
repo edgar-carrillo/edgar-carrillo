@@ -13,7 +13,8 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 ### • Iron-Motorcycle
 <b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
 
-A Motorcycle company website where users can shop for many different types of motorcycles.
+A Motorcycle company website where users can shop for for three categories of Harley Davidson motorcycles. Trike, Cruiser, or Grand American
+Touring.
 <br>
 <p>
   As I started this project I wanted to emphasize working with react-router but that slowly evolved into designing and finding out how 
