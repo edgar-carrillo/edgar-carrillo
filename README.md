@@ -17,11 +17,13 @@ A Motorcycle company website where users can shop for for three categories of Ha
 Touring.
 <br>
 <p>
-  As I started this project I wanted to emphasize working with react-router but that slowly evolved into designing and finding out how 
-  to work with making projects look nice across a broad range of devices. This is a fully responsive website. This project does also heavily
-  emphasize learning react router as well to be able to handle creating pages dynamically for each item and switching between them.
+  This project was a highly anticipated project of mine - being able to create a nice mock of an e-commerce site that had dynamic page creation 
+  and item control was the goal for this project. I had lots of practice with react-router as well as being exposed to other technologies such 
+  as react-scroll, and more react hooks such as useContext. I also ended up using some functions from the Math object (as well as using other 
+  functions) in order to be able to calculate the subtotal of multiple cart items. Lots of practice with commonly used react tech such as useState 
+  and passing props was done throughout the project.
 
-  Most if not all of the code will be housed in the development branch until it is ready for production.
+  All components were created using functional components.
 </p>
 
 Live : https://iron-motorcycles.netlify.app/
