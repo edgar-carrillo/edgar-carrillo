@@ -36,4 +36,3 @@ An easy to use CV-Application Creator.
 
 The class game of Battleship with a modern flare.
 
-
