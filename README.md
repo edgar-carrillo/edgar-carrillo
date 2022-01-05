@@ -2,9 +2,11 @@
 <h1 align="center">Hi, <a href="#">I'm Edgar</a></h1>
 
 ## About Me
-I'm a Computer Science student working on Front-End Engineering. I've been on this journey alongside a team of passionate developers where we push each other to make progress.
+Hey there! I'm Edgar, a front-end web developer with experience building websites and web applications. I specialize in JavaScript and React. 
 
-Seeking internships / jobs to apply my experience and expand my knowledge by assisting the companies needs through Web Development.
+I make the web pretty.
+
+Seeking jobs to apply my experience and expand my knowledge by assisting the companies needs through Web Development. 𝗟𝗲𝘁 𝗺𝗲 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝘀𝗼𝗹𝘃𝗲 𝘆𝗼𝘂𝗿 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀!
 
 <br>
 
