@@ -15,6 +15,8 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 
 See how you fare against users around the world in this Where's Waldo inspired game.
 
+<br>
+
 ## Past Projects - A small collection
 
 ### • 🏍️ [Iron-Motorcycle](https://github.com/ec-rilo/iron-motorcycles)
