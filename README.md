@@ -10,6 +10,11 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 
 ## Current Projects
 
+### • 🖼️ [Photo-Tagging-App](https://github.com/ec-rilo/photo-tagging-app)
+<b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
+
+See how you fare against users around the world in this Where's Waldo inspired game.
+
 ## Past Projects - A small collection
 
 ### • 🏍️ [Iron-Motorcycle](https://github.com/ec-rilo/iron-motorcycles)
