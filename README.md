@@ -15,6 +15,14 @@ Seeking internships / jobs to apply my experience and expand my knowledge by ass
 
 See how you fare against users around the world in this Where's Waldo inspired game.
 
+
+### • 🧑🏻 [Personal Portfolio](https://github.com/ec-rilo/edgarthedeveloper)
+<b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
+
+A website all about me! Completly replacing my old design with a different approach
+that makes it easier for people to get a quick glimpse of my skills while also 
+having clear deep dives into projects and other things I've done.
+
 <br>
 
 ## Past Projects - A small collection
