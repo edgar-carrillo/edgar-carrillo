@@ -37,8 +37,3 @@ An easy to use CV-Application Creator.
 The class game of Battleship with a modern flare.
 
 
-### • [☀️ Weather-App](https://github.com/ec-rilo/weather-app)
-<b>Utilized:</b> JS | HTML | CSS | Webpack
-
-A weather application that will provide weather and current day information
-<br>
