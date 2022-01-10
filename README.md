@@ -32,7 +32,7 @@ having clear deep dives into projects and other things I've done.
 ### • 🏍️ [Iron-Motorcycle](https://github.com/ec-rilo/iron-motorcycles)
 <b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
 
-A Motorcycle company website where users can shop for for three categories of Harley Davidson motorcycles. Trike, Cruiser, or Grand American
+A Motorcycle company website where users can shop for three categories of Harley Davidson motorcycles. Trike, Cruiser, or Grand American
 Touring.
 
 
