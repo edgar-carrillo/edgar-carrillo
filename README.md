@@ -2,11 +2,9 @@
 <h1 align="center">Hi, <a href="#">I'm Edgar</a></h1>
 
 ## About Me
-Hey there! I'm Edgar, a front-end web developer with experience building websites and web applications. I specialize in JavaScript and React. 
+Hey there! I'm Edgar, a full-stack software engineer who enjoys bringing designs to life and weaving in functionality (having coffee helps ☕). 
 
-I make the web pretty.
-
-Seeking jobs to apply my experience and expand my knowledge by assisting the companies needs through Web Development. 𝗟𝗲𝘁 𝗺𝗲 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝘀𝗼𝗹𝘃𝗲 𝘆𝗼𝘂𝗿 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀!
+Seeking jobs to apply my experience and expand my knowledge by assisting the companies needs through Software Engineering. 𝗟𝗲𝘁 𝗺𝗲 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝘀𝗼𝗹𝘃𝗲 𝘆𝗼𝘂𝗿 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀!
 
 <br>
 
