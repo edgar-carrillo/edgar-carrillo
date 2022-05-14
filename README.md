@@ -18,12 +18,10 @@ I have many, MANY projects under my belt. Feel free to checkout my contributions
 A food ordering app, done tinder-style, completed with a team of 7 engineers creating a finished product that received client approval.
 
 
-### • 🧑🏻 [Personal Portfolio](https://github.com/ec-rilo/edgarthedeveloper)
-<b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
+### • 🧑🏻 [Atelier]()
+<b>Utilized:</b> React | JS | Webpack | Node.js | Styled-Components
 
-A website all about me! Completly replacing my old design with a different approach
-that makes it easier for people to get a quick glimpse of my skills while also 
-having clear deep dives into projects and other things I've done.
+An e-commerce application that provides a broad range of products. I created the product details page that was based on a mock provided by the client. The end result being a pixel perfect representation that my client was happy with.
 
 <br>
 
