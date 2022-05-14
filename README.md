@@ -31,7 +31,7 @@ An e-commerce application that provides a broad range of products. I created the
 ### • 🐶 [DogFinder]()
 <b>Utilized:</b> React | JS | Postgresql | AWS | Styled-Components
 
-An dog glossary app where users can save the dogs they do and don't want to reference later.
+An dog glossary app where users can save the dogs they want to reference later.
 
 <br>
 
