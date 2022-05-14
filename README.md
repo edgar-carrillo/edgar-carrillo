@@ -12,16 +12,26 @@ I have many, MANY projects under my belt. Feel free to checkout my contributions
 
 ## Projects
 
+### • 👷 [Threads]()
+<b>Utilized:</b> React | New Relic | Express | Nginx | Postgresql | AWS
+
+Converted a monolith service into dedicated micro-services with a modern architecture. 
+
 ### • 🚗 [Rumble](https://github.com/HR-BlueOcean-SpiritedAway/Rumble)
 <b>Utilized:</b> Next.js | JS | Firebase | Tailwind
 
 A food ordering app, done tinder-style, completed with a team of 7 engineers creating a finished product that received client approval.
 
 
-### • 🧑🏻 [Atelier]()
+### • 🛒 [Atelier]()
 <b>Utilized:</b> React | JS | Webpack | Node.js | Styled-Components
 
 An e-commerce application that provides a broad range of products. I created the product details page that was based on a mock provided by the client. The end result being a pixel perfect representation that my client was happy with.
+
+### • 🐶 [DogFinder]()
+<b>Utilized:</b> React | JS | Postgresql | AWS | Styled-Components
+
+An dog glossary app where users can save the dogs they do and don't want to reference later.
 
 <br>
 
