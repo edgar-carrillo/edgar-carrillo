@@ -6,14 +6,16 @@ Hey there! I'm Edgar, a full-stack software engineer who enjoys bringing designs
 
 Seeking jobs to apply my experience and expand my knowledge by assisting the companies needs through Software Engineering. 𝗟𝗲𝘁 𝗺𝗲 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝘀𝗼𝗹𝘃𝗲 𝘆𝗼𝘂𝗿 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀!
 
+I have many, MANY projects under my belt. Feel free to checkout my contributions dashboard!
+
 <br>
 
-## Current Projects
+## Projects
 
-### • 🖼️ [Photo-Tagging-App](https://github.com/ec-rilo/photo-tagging-app)
-<b>Utilized:</b> React | JS | HTML | CSS | Webpack | Jest
+### • 🚗 [Rumble](https://github.com/HR-BlueOcean-SpiritedAway/Rumble)
+<b>Utilized:</b> Next.js | JS | Firebase | Tailwind
 
-See how you fare against users around the world in this Where's Waldo inspired game.
+A food ordering app, done tinder-style, completed with a team of 7 engineers creating a finished product that received client approval.
 
 
 ### • 🧑🏻 [Personal Portfolio](https://github.com/ec-rilo/edgarthedeveloper)
