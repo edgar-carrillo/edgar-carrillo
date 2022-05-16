@@ -28,7 +28,7 @@ A food ordering app, done tinder-style, completed with a team of 7 engineers cre
 
 An e-commerce application that provides a broad range of products. I created the product details page that was based on a mock. The end result being a pixel perfect representation that my client was happy with.
 
-### • 🐶 [DogFinder]()
+### • 🐶 [DogFinder](https://github.com/ec-rilo/dog-finder)
 <b>Utilized:</b> React | JS | Postgresql | AWS | Styled-Components
 
 An dog glossary app where users can save the dogs they want to reference later.
