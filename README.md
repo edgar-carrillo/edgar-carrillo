@@ -1,5 +1,5 @@
 <img src="images/Background.jpg" alt="Edgar sitting outside during golden hour" align="center">
-<h1 align="center">Hi, <a href="#">I'm Edgar</a></h1>
+<h1 align="center">Hi, I'm Edgar</h1>
 
 ## About Me
 Hey there! I'm Edgar, a full-stack software engineer who enjoys bringing designs to life and weaving in functionality (having coffee helps ☕). 
