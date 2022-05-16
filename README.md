@@ -13,7 +13,7 @@ I have many, MANY projects under my belt. Feel free to checkout my contributions
 ## Projects
 
 
-### • 🛒 [Atelier](https://github.com/ec-rilo/Atelier/blob/master/README.md)
+### • 🛒 [Atelier](https://github.com/ec-rilo/Atelier)
 <b>Utilized:</b> React | JS | Webpack | Node.js | Styled-Components
 
 An e-commerce application that provides a broad range of products. I created the product details page that was based on a mock. The end result being a pixel perfect representation that my client was happy with.
