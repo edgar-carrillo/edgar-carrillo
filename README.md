@@ -23,7 +23,7 @@ An e-commerce application that provides a broad range of products. I created the
 
 An dog glossary app where users can save the dogs they want to reference later.
 
-### • 👷 [Threads]()
+### • 👷 [Threads](https://github.com/ec-rilo/Threads)
 <b>Utilized:</b> React | New Relic | Express | Nginx | Postgresql | AWS
 
 Converted a monolith service into dedicated micro-services with a modern architecture. 
