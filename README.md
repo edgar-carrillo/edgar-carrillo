@@ -23,10 +23,10 @@ Converted a monolith service into dedicated micro-services with a modern archite
 A food ordering app, done tinder-style, completed with a team of 7 engineers creating a finished product that received client approval.
 
 
-### • 🛒 [Atelier]()
+### • 🛒 [Atelier](https://github.com/ec-rilo/Atelier/blob/master/README.md)
 <b>Utilized:</b> React | JS | Webpack | Node.js | Styled-Components
 
-An e-commerce application that provides a broad range of products. I created the product details page that was based on a mock provided by the client. The end result being a pixel perfect representation that my client was happy with.
+An e-commerce application that provides a broad range of products. I created the product details page that was based on a mock. The end result being a pixel perfect representation that my client was happy with.
 
 ### • 🐶 [DogFinder]()
 <b>Utilized:</b> React | JS | Postgresql | AWS | Styled-Components
