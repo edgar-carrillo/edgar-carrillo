@@ -12,7 +12,7 @@ I have many, MANY projects under my belt. Feel free to checkout my contributions
 
 ## Current Projects
 
-### • 🚗 [Rumble](https://github.com/HR-BlueOcean-SpiritedAway/Rumble)
+### • 🚗 [Rumble](https://github.com/ec-rilo/rumble)
 <b>Utilized:</b> Next.js | JS | Firebase | Tailwind
 
 A food ordering app, done tinder-style, completed with a team of 7 engineers creating a finished product that received client approval. This time done solo.
