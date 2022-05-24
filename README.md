@@ -12,6 +12,10 @@ I have many, MANY projects under my belt. Feel free to checkout my contributions
 
 ## Current Projects
 
+### • 🤖 [Fun with GPT-3](https://github.com/ec-rilo/fun-with-gpt-3)
+<b>Utilized:</b> Next.js | JS | Firebase | styled-components
+
+
 ### • 🚗 [Rumble](https://github.com/ec-rilo/rumble)
 <b>Utilized:</b> Next.js | JS | Firebase | Tailwind
 
