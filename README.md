@@ -15,6 +15,14 @@ I have many, MANY projects under my belt. Feel free to checkout my contributions
 ### • 🤖 [Fun with GPT-3](https://github.com/ec-rilo/fun-with-gpt-3)
 <b>Utilized:</b> Next.js | JS | Firebase | styled-components | PostgreSQL | AWS
 
+Play around with AI and ask it anything! Whatever you ask will be projected LIVE to any user using the application! Your results will vary based on the [engine you choose](https://beta.openai.com/docs/engines/gpt-3) when asking a question. You have a choice of:
+
+- text-davinci-002
+- text-curie-001
+- text-babbage-001
+- text-ada-001
+
+You can also filter the responses you want to see based on the engine or most recent posts.
 
 ### • 🚗 [Rumble](https://github.com/ec-rilo/rumble)
 <b>Utilized:</b> Next.js | JS | Firebase | Tailwind
