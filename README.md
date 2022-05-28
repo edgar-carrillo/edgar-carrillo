@@ -13,7 +13,7 @@ I have many, MANY projects under my belt. Feel free to checkout my contributions
 ## Current Projects
 
 ### • 🤖 [Fun with GPT-3](https://github.com/ec-rilo/fun-with-gpt-3)
-<b>Utilized:</b> Next.js | JS | Firebase | styled-components | PostgreSQL | AWS
+<b>Utilized:</b> Next.js | JS | Firebase | styled-components | PostgreSQL | AWS | Express
 
 Play around with AI and ask it anything! Whatever you ask will be projected LIVE to any user using the application! Your results will vary based on the [engine you choose](https://beta.openai.com/docs/engines/gpt-3) when asking a question. You have a choice of:
 
