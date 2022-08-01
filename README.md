@@ -17,7 +17,7 @@ I have many, MANY projects under my belt. Feel free to checkout my contributions
 
 A course designed to teach the skills needed to go from beginner to proficient in MySQL by creating complex databases and building reports through real-world projects.
 
-### • 🚗 [Rumble](https://github.com/ec-rilo/rumble)
+### • 🚗 [Rumble Remake](https://github.com/ec-rilo/rumble)
 <b>Utilized:</b> Next.js | JS | Firebase | Tailwind
 
 A food ordering app, done tinder-style, a project I revisited to remake on my own. While the client was happy with rumble I made previously I knew I could push the project further. So I'm working on rumble to show off it's full potential!
