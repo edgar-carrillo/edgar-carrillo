@@ -17,6 +17,8 @@ I have many, MANY projects under my belt. Feel free to checkout my contributions
 
 A course designed to teach the skills needed to go from beginner to proficient in MySQL by creating complex databases and building reports through real-world projects.
 
+I'm taking this course to strengthen the MySQL knowledge I have.
+
 ### • 🚗 [Rumble Remake](https://github.com/ec-rilo/rumble)
 <b>Utilized:</b> Next.js | JS | Firebase | Tailwind
 
