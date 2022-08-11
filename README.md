@@ -28,6 +28,11 @@ A food decision making app, done tinder-style, a project I revisited to remake o
 
 ## Some Past Projects
 
+### [🍔 Rumble](https://github.com/HR-BlueOcean-SpiritedAway/Rumble)
+<b>Utilized:</b> Next.js | JS | Firebase | Tailwind
+
+A food ordering app, done tinder-style, completed with a team of 7 engineers creating a finished product that received client approval.
+
 ### [🛒 Atelier](https://github.com/ec-rilo/Atelier)
 <b>Utilized:</b> React | JS | Webpack | Node.js | Styled-Components
 
@@ -42,8 +47,3 @@ An dog glossary app where users can save the dogs they want to reference later.
 <b>Utilized:</b> React | New Relic | Express | Nginx | Postgresql | AWS
 
 Converted a monolith service into dedicated micro-services with a modern architecture. 
-
-### [🍔 Rumble](https://github.com/HR-BlueOcean-SpiritedAway/Rumble)
-<b>Utilized:</b> Next.js | JS | Firebase | Tailwind
-
-A food ordering app, done tinder-style, completed with a team of 7 engineers creating a finished product that received client approval.
