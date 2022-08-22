@@ -5,7 +5,7 @@
 ## 🧐 About Me
 Hi! I'm a full-stack software engineer who solves problems for a living (having coffee helps ☕).
 
-I love spending my time creating things, resolving issues, and learning new technolgies!
+I love spending my time creating things, resolving issues, and learning new technolgies! I'm driven by having the ability to make in impact in the lives of people.
 
 <br>
 
