@@ -1,6 +1,6 @@
 
 <img src="images/Background.jpg" alt="Edgar sitting outside during golden hour" align="center">
-<h1 align="center">Hi, I'm <a href="https://www.edgarthedeveloper.com/" target="_blank">Edgar ☕</a></h1>
+<h1 align="center">Hi, I'm <a href="https://www.edgarcodes.com/" target="_blank">Edgar ☕</a></h1>
 
 ## 🧐 About Me
 Hi! I'm a full-stack software engineer who solves problems for a living (having coffee helps ☕).
