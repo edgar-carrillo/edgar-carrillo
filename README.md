@@ -13,7 +13,7 @@ I love spending my time creating things, resolving issues, and learning new tech
 ## ⚡ Fun facts:
 * I'm a gym goer, working towards joining the [1000 lb club](https://www.army.mil/article/205920/soldier_earns_a_spot_in_1000_pound_club#:~:text=The%201%2C000%2Dpound%20club%20is,weight%20lifted%20in%20each%20event.).
 * Animals is a passion of mine, I've trained dogs in the past including German Shepards, Chihuahuas and pitbulls.
-* Currently reading [Atomic Habits](https://jamesclear.com/atomic-habits) and recently started [A song of Ice and Fire](https://www.amazon.com/Song-Ice-Fire-Volumes/dp/0007477155).
+* Currently reading Congo by Micheal Crichton (Can you guess my favorite Micheal Crichton book?)
 
 <br>
 
