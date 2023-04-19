@@ -13,7 +13,7 @@ I love spending my time creating things, resolving issues, and learning new tech
 ## ⚡ Fun facts:
 * I'm a gym goer, working towards joining the [1000 lb club](https://www.army.mil/article/205920/soldier_earns_a_spot_in_1000_pound_club#:~:text=The%201%2C000%2Dpound%20club%20is,weight%20lifted%20in%20each%20event.).
 * Animals is a passion of mine, I've trained dogs in the past including German Shepards, Chihuahuas and pitbulls.
-* Currently reading Congo by Micheal Crichton (Can you guess my favorite Micheal Crichton book?)
+* Currently reading [The E-Myth: Revisited](https://www.amazon.com/The-E-Myth-Revisited-audiobook/dp/B00094F0ES/ref=sr_1_1?hvadid=616931742127&hvdev=c&hvlocphy=9032386&hvnetw=g&hvqmt=e&hvrand=3600048739884996412&hvtargid=kwd-46819720&hydadcr=24664_13611849&keywords=e-myth+book&qid=1681863454&sr=8-1).
 
 <br>
 
